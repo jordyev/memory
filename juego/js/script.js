@@ -1,6 +1,6 @@
 
 const MAXIMOS_INTENTOS = 5, // Intentos máximos que tiene el jugador
-    COLUMNAS = 2, // Columnas del memorama
+    COLUMNAS = 3, // Columnas del memorama
     SEGUNDOS_ESPERA_VOLTEAR_IMAGEN = 1, // Por cuántos segundos mostrar ambas imágenes
     NOMBRE_IMAGEN_OCULTA = "./img/question.png"; // La imagen que se muestra cuando la real está oculta
 new Vue({
